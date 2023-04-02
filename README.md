@@ -11,4 +11,4 @@ This is my collection of cyber security analysis scripts
 
 - These commands are meant for scripting practice and personal use. They are crafted to fill my needs and I wouldn't expect open contribution.
 - Commands will be added from time to time. As I craft new tools along the way.
-- Currently, commands have been only tested on a macos environment.
+- Currently, commands have only been tested on a macos environment.
