@@ -3,7 +3,7 @@ This is my collection of cyber security analysis scripts
 
 - `checkipv4conn`: Checks for open connections either `LISTEN` or `ESTABLISHED` states. And return a list of names of the programs running in those IPv4 open connections.
 
-- `simple_kernel_firewall_setup`: It setups some standar firewall rules for a linux machine with `iptables` command available. The file must be run directly with root privileges.
+- `simple_kernel_firewall_setup`: It setups some standard firewall rules for a linux machine with `iptables` command available. The file must be run directly with root privileges.
 
 # How to use the commands
 
