@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script is based in https://oracle-base.com/articles/linux/linux-firewall
+# This script is based in https://oracle-base.com/articles/linux/linux-firewall.php
 
 # Set the default policies to allow everything while we set up new rules.
 # Prevents cutting yourself off when running from remote SSH.
