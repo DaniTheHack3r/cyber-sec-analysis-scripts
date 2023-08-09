@@ -1,4 +1,4 @@
-# cyber-sec-analysis-scripts
+# Cybersecurity Analysis Scripts
 This is my collection of cyber security analysis scripts
 
 - `check_ip_connections`: Checks for open connections either `LISTENING` or `ESTABLISHED` states. And return a list of either ESTABLISHED or LISTENING connections with proper filtering.
@@ -11,9 +11,9 @@ This is my collection of cyber security analysis scripts
 
 - `check_for_get_operations`: It uses advanced filtering to check for GET requests. It saves the packet capture in the tmp directory.
 
-# How to use the commands
+# How to use them
 
-- Dowload the repository and run `source <file_with_needed_command>`. If the file is a plain script, run the file directly using root (if needed).
+- Dowload the repository and run `source <file_with_needed_command>`. If the file is a plain script, give permissions to run the script to your user or selected group and give it a go.
 
 # Author Notes
 
