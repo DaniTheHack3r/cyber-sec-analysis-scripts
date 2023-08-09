@@ -1,4 +1,4 @@
-# cyber-sec-analysis-scripts
+# Cybersecurity Analysis Scripts
 This is my collection of cyber security analysis scripts
 
 - `checkipv4conn`: Checks for open connections either `LISTEN` or `ESTABLISHED` states. And return a list of names of the programs running in those IPv4 open connections.
@@ -11,7 +11,7 @@ This is my collection of cyber security analysis scripts
 
 - `check_for_get_operations`: It uses advanced filtering to check for GET requests. It saves the packet capture in the tmp directory.
 
-# How to use the commands
+# How to use them
 
 - Dowload the repository and run `source <file_with_needed_command>`. If the file is a plain script, give permissions to run the script to your user or selected group and give it a go.
 
