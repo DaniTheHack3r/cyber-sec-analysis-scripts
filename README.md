@@ -13,7 +13,7 @@ This is my collection of cyber security analysis scripts
 
 # How to use the commands
 
-- Dowload the repository and run `source <file_with_needed_command>`. If the file is a plain script, run the file directly using root (if needed).
+- Dowload the repository and run `source <file_with_needed_command>`. If the file is a plain script, give permissions to run the script to your user or selected group and give it a go.
 
 # Author Notes
 
